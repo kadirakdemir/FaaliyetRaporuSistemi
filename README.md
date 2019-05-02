@@ -1,6 +1,7 @@
 # FaaliyetRaporuSistemi
 C# Windows Form Application 
 
-## headings
-https://github.com/kadirakdemir/FaaliyetRaporuSistemi/issues/1#issue-439534607
-### headings
+## Görseller
+![1](https://user-images.githubusercontent.com/6715223/57071425-122fa880-6ce3-11e9-81be-57b1be908ed0.jpg)
+
+
