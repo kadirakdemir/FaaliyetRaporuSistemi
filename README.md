@@ -17,10 +17,6 @@ C# Windows Form Application
 
 <img src="https://user-images.githubusercontent.com/6715223/57071582-8cf8c380-6ce3-11e9-9adf-9f769b263c7e.jpg" width="550" height="300">
 
-<img src="https://user-images.githubusercontent.com/6715223/57071583-8d915a00-6ce3-11e9-8f39-9e140fd91c9b.jpg" width="550" height="300">
-
-<img src="https://user-images.githubusercontent.com/6715223/57071584-8d915a00-6ce3-11e9-9366-83084e2c3eaf.jpg" width="550" height="300">
-
 <img src="https://user-images.githubusercontent.com/6715223/57071585-8d915a00-6ce3-11e9-8b82-bf1383de6090.jpg" width="550" height="300">
 
 <img src="https://user-images.githubusercontent.com/6715223/57071586-8e29f080-6ce3-11e9-8fc8-3ad4c2c2e4a2.jpg" width="550" height="300">
